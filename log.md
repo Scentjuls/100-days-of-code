@@ -27,6 +27,20 @@
 
 **Thoughts**: Had minor challenges with the media queries, but i was able to pull through. I think i'll start using CSS3 frameworks for future projects. I just want to be able to write CSS3 fluently.
 
+### Day 5: April 25, 2018 Wednesday
+
+**Today's Progress**:  I worked on my portfolio website.
+
+**Thoughts**: I wrote an API that gets a list of cars an area. How? By inputting the longitude & latitude, it fetches a list of cars using the GET request. Also used postman to test the routes and made use of GeoJSON to handle geolocation.
+
+
+### Day 6: April 26, 2018 Thursday
+
+**Today's Progress**:  I decided to write APIs.
+
+**Thoughts**: Today I completed my portfolio website. Tidied up the CSS (media queries) and added CSS animations!.
+
+
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
